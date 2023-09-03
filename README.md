@@ -1,1 +1,1 @@
-# tensorflow-pong
+# tensorflow-cartpole
